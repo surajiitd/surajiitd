@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently doing M.S.(Research) @IIT-Delhi in CSE dept.
-- 🌱 I’m currently working in SLAM, Computer Vision and Deep Learning.
+- 🌱 I’m currently doing M.S.(Research) @IIT-Delhi in CSE dept.
+- 🔭 I’m currently working in SLAM, Computer Vision and Deep Learning.
 
 <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=surajiitd&show_icons=true&hide_border=true" />
