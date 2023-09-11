@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently doing M.S.(Research) @IIT-Delhi in CSE dept.
-- 🔭 My Research Area is SLAM, Computer Vision and Deep Learning.
+- 🔭 My Research Area is Computer Vision and Deep Learning.
 
 <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=surajiitd&show_icons=true&hide_border=true" />
