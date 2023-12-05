@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<h2> Hi there 👋 </h2>
+</div>
 
 <!--
 **surajiitd/surajiitd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently doing M.S.(Research) @IIT-Delhi in CSE dept.
-- 🔭 My Research Area is Computer Vision and Deep Learning.
-
-<img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=surajiitd&show_icons=true&hide_border=true" />
+<div align="center">
+🌱 I’m currently doing M.S.(Research) @IIT-Delhi in CSE dept. <br>  
+🔭 My Research Area is Computer Vision and Deep Learning. <br>  
+</div>
+<br>  
+<div align="center">
+<img align="center" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=surajiitd&show_icons=true&hide_border=true" />
+</div>
