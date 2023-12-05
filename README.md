@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 </div>
 <br>  
 <div align="center">
-<!-- <img align="center" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=surajiitd&show_icons=true&hide_border=true" /> -->
-<img align="center" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=surajiitd&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=true" />
+<img align="center" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=surajiitd&show_icons=true&hide_rank=true&show_icons=true&theme=transparent#gh-dark-mode-only&hide_border=true" />
 </div>
+<br>
+
+
