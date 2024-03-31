@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 <div align="center">
 🌱 I’m currently doing M.S.(Research) @IIT-Delhi in CSE dept. <br>  
 🔭 My Research Area is Computer Vision and Deep Learning. <br>  
+<br>
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=surajiitd&label=Profile%20views&color=0e75b6&style=flat" alt="surajiitd" /> </p>
+
 </div>
-<br>  
+ 
 <div align="center">
 <img align="center" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=surajiitd&show_icons=true&hide_rank=true&show_icons=true&theme=transparent#gh-dark-mode-only&hide_border=true" />
 </div>
