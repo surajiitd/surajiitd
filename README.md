@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-🌱 I’m currently doing M.S.(Research) @IIT-Delhi in CSE dept. <br>  
+🧑‍💻 I'm currently working as an AI/ML Research Engineer @ Qualcomm R&D. <br>
+🌱 I did M.S.(Research) from IIT-Delhi in CSE dept. <br>  
 🔭 My Research Area is Computer Vision and Deep Learning. <br>  
 <br>
   
